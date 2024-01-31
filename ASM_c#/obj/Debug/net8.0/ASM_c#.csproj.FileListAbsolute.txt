@@ -1,0 +1,14 @@
+D:\ASM_c#\ASM_c#\bin\Debug\net8.0\ASM_c#.exe
+D:\ASM_c#\ASM_c#\bin\Debug\net8.0\ASM_c#.deps.json
+D:\ASM_c#\ASM_c#\bin\Debug\net8.0\ASM_c#.runtimeconfig.json
+D:\ASM_c#\ASM_c#\bin\Debug\net8.0\ASM_c#.dll
+D:\ASM_c#\ASM_c#\bin\Debug\net8.0\ASM_c#.pdb
+D:\ASM_c#\ASM_c#\obj\Debug\net8.0\ASM_c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASM_c#\ASM_c#\obj\Debug\net8.0\ASM_c#.AssemblyInfoInputs.cache
+D:\ASM_c#\ASM_c#\obj\Debug\net8.0\ASM_c#.AssemblyInfo.cs
+D:\ASM_c#\ASM_c#\obj\Debug\net8.0\ASM_c#.csproj.CoreCompileInputs.cache
+D:\ASM_c#\ASM_c#\obj\Debug\net8.0\ASM_c#.dll
+D:\ASM_c#\ASM_c#\obj\Debug\net8.0\refint\ASM_c#.dll
+D:\ASM_c#\ASM_c#\obj\Debug\net8.0\ASM_c#.pdb
+D:\ASM_c#\ASM_c#\obj\Debug\net8.0\ASM_c#.genruntimeconfig.cache
+D:\ASM_c#\ASM_c#\obj\Debug\net8.0\ref\ASM_c#.dll
